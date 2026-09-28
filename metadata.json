@@ -1,0 +1,6 @@
+{
+  "name": "Tatlı Adımlar",
+  "description": "Mobil öncelikli, samimi ve sevimli egzersiz ve iyi hissetme rehberi.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
